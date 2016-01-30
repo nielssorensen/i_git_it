@@ -15,7 +15,7 @@ Github is one of many websites that act as a "remote" for your repositories.
 <h3>Why use git?</h3>
 The answer to this question is probably just as important as understanding what it is.
 People use git to track the changes made to a file.  Usually containing source code.
-It allows multiple people to work on the same file. And they can be anywhere. 
+It allows multiple people to work on the same file. And they can be anywhere.
 
 <h3>A visualization of "stages" in a git workflow.</h3>
 
